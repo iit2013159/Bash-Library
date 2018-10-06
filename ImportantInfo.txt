@@ -1,0 +1,1 @@
+https://dberkholz.com/2011/04/07/bash-shell-scripting-libraries/
